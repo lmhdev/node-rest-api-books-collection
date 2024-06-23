@@ -1,0 +1,16 @@
+2024-06-21T06:41:43.565Z info: GET /api/bookss 404 5ms
+2024-06-21T06:42:39.237Z info: GET /api/books 200 13ms
+2024-06-21T10:36:09.226Z info: POST /api/register 400 11ms
+2024-06-21T10:39:10.049Z info: POST /api/register 201 117ms
+2024-06-21T10:41:18.082Z info: POST /api/login 200 106ms
+2024-06-21T10:42:05.747Z info: POST /api/books 403 4ms
+2024-06-21T10:45:13.870Z info: POST /api/login 200 112ms
+2024-06-21T10:46:40.198Z info: POST /api/books 403 6ms
+2024-06-21T10:47:54.507Z info: POST /api/books 403 5ms
+2024-06-21T10:54:18.276Z info: POST /api/login 400 6ms
+2024-06-21T10:54:56.564Z info: POST /api/login 200 113ms
+2024-06-21T10:55:11.202Z info: POST /api/books 403 5ms
+2024-06-21T10:55:42.977Z info: POST /api/books 201 17ms
+2024-06-23T16:50:08.261Z info: POST /api/books 401 6ms
+2024-06-23T16:50:17.939Z info: POST /api/login 200 112ms
+2024-06-23T16:50:28.731Z info: POST /api/books 201 13ms
